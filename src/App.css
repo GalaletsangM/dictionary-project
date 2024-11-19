@@ -1,3 +1,17 @@
+body {
+  background-color: rgb(246, 238, 229);
+}
+.App-header {
+  margin: 30px 0;
+}
+.App-logo {
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+a {
+  color: rgb(208, 30, 59);
+}
 .app-footer {
   text-align: center;
   margin: 30px 0;
