@@ -9,10 +9,18 @@ body {
   display: block;
   margin: 0 auto;
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 a {
   color: rgb(208, 30, 59);
 }
 .app-footer {
   text-align: center;
   margin: 30px 0;
+}
+.App-header img{
+  border-radius:600px;
+  width: 200px;
 }
